@@ -39,3 +39,9 @@ fetchBtn.addEventListener("click", () => {
   // If nothing typed, default to "cats"
   fetchGifs(term || "cats");
 });
+git add .
+git commit -m "Added Giphy fetcher project with HTML CSS and JS"
+git push
+git commit -m "Created base project and added index.html"
+git commit -m "Added JS fetch logic for Giphy API"
+git commit -m "Added search functionality and cleaned up code"
